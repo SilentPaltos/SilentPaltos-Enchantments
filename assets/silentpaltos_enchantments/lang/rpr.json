@@ -1,0 +1,24 @@
+{
+
+    "pack.silentpaltos_enchantments.name": "SilentPaltos Enchantments",
+    "pack.silentpaltos_enchantments.description": "6 новых зачарований",
+    "pack.silentpaltos_enchantments.author": "Автор:",
+    "pack.silentpaltos_enchantments.version": "Версия: %s %s",
+        "pack.silentpaltos_enchantments.version_type": "Альфа",
+    "pack.silentpaltos_enchantments.get_links": "Ссылки",
+        "pack.silentpaltos_enchantments.link_github": "GitHub",
+        "pack.silentpaltos_enchantments.link_modrinth": "Modrinth", 
+  
+    "enchantment.silentpaltos_enchantments.exorcism": "Изгнание",
+    "enchantment.silentpaltos_enchantments.devouring": "Пожирание",
+    "enchantment.silentpaltos_enchantments.hydrophobia": "Водобоязнь",
+    "enchantment.silentpaltos_enchantments.vitality": "Живучесть",
+    "enchantment.silentpaltos_enchantments.fragility": "Хрупкость",
+    "enchantment.silentpaltos_enchantments.burst": "Выплеск",
+  
+    "death.attack.water_block": "%s измок до смерти",
+    "death.attack.water_block.player": "%s упал в воду, убегая от %s",
+    "death.attack.water_rain": "%s измок до смерти",
+    "death.attack.water_rain.player": "%s попал под дождь, убегая от %s"
+  
+}
