@@ -68,7 +68,7 @@ Enchantment for all items with durability. Items enchanted with Fragility have s
 <details>
 <summary>Burst</summary>
 
-Enchantment for Bows and Crossbows. If you shoot a tipped arrow from an item enchanted with Burst, arrow will turn into an area effect cloud.
+Enchantment for Bows and Crossbows. If you shoot a tipped arrow from an item enchanted with Burst, arrow will turn into an area effect cloud if sticks into a block.
 
 </details>
 
