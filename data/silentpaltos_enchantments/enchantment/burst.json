@@ -1,0 +1,36 @@
+{
+  "description": {
+    "translate": "enchantment.silentpaltos_enchantments.burst",
+    "fallback": "Burst"
+  },
+  "supported_items": [
+    "minecraft:bow",
+    "minecraft:crossbow"
+  ],
+  "primary_items": [
+    "minecraft:bow",
+    "minecraft:crossbow"
+  ],
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 30,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 8,
+  "slots": [],
+  "effects": {
+    "minecraft:hit_block": [
+      {
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "silentpaltos_enchantments:burst"
+        }
+      }
+    ]
+  }
+}

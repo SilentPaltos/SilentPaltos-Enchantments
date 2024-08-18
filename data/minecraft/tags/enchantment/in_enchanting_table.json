@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "silentpaltos_enchantments:devouring",
+        "silentpaltos_enchantments:fragility",
+        "silentpaltos_enchantments:hydrophobia",
+        "silentpaltos_enchantments:burst"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+  "description": {
+    "translate": "enchantment.silentpaltos_enchantments.hydrophobia",
+    "fallback": "Hydrophobia"
+  },
+  "supported_items": "#minecraft:enchantable/armor",
+  "primary_items": "#minecraft:enchantable/armor",
+  "weight": 6,
+  "max_level": 1,
+  "min_cost": {
+    "base": 30,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "armor"
+  ],
+  "effects": {
+    "minecraft:tick": [
+      {
+        "effect": {
+          "type": "minecraft:damage_entity",
+          "damage_type": "silentpaltos_enchantments:water_block",
+          "min_damage": 1,
+          "max_damage": 1
+        },
+        "requirements": {
+          "condition": "minecraft:location_check",
+          "predicate": {
+            "fluid": {
+              "fluids": "#minecraft:water"
+            }
+          }
+        }
+      },
+      {
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "silentpaltos_enchantments:hydrophobia_rain"
+        },
+        "requirements": {
+          "condition": "minecraft:weather_check",
+          "raining": true
+        }
+      }
+    ]
+  }
+}
