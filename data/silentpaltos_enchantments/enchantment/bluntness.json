@@ -1,0 +1,40 @@
+{
+  "description": {
+    "translate": "enchantment.silentpaltos_enchantments.bluntness",
+    "fallback": "Bluntness"
+  },
+  "supported_items": "#silentpaltos_enchantments:enchantable/tool",
+  "primary_items": "#silentpaltos_enchantments:enchantable/tool",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 25,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {
+    "minecraft:damage": [
+      {
+        "effect": {
+          "type": "minecraft:multiply",
+          "factor": 0.7
+        }
+      } 
+    ],
+    "minecraft:attributes": [
+      {
+        "id": "silentpaltos_enchantments:block_break_speed",
+        "attribute": "minecraft:block_break_speed",
+        "amount": -0.55,
+        "operation": "add_multiplied_base"
+      }
+    ]
+  }
+}

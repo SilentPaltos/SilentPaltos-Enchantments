@@ -1,0 +1,36 @@
+{
+  "description": {
+    "translate": "enchantment.silentpaltos_enchantments.spatter",
+    "fallback": "Spatter"
+  },
+  "supported_items": [
+    "minecraft:bow",
+    "minecraft:crossbow"
+  ],
+  "primary_items": [
+    "minecraft:bow",
+    "minecraft:crossbow"
+  ],
+  "weight": 2,
+  "max_level": 1,
+  "min_cost": {
+    "base": 20,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 4,
+  "slots": [],
+  "effects": {
+    "minecraft:hit_block": [
+      {
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "silentpaltos_enchantments:spatter"
+        }
+      }
+    ]
+  }
+}

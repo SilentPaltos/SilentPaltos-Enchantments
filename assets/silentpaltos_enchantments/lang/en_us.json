@@ -1,0 +1,28 @@
+{
+  "pack.silentpaltos_enchantments.info": "\n%s %s\n\n%s\n%s\n",
+  "pack.silentpaltos_enchantments.name": "SilentPaltos Enchantments",
+  "pack.silentpaltos_enchantments.description": "%s New Enchantments",
+  "pack.silentpaltos_enchantments.author": "Author: %s",
+  "pack.silentpaltos_enchantments.version": "Version: %s",
+  "pack.silentpaltos_enchantments.get_links": "Get Links",
+  "pack.silentpaltos_enchantments.links": "\n[%s] [%s]\n",
+  "pack.silentpaltos_enchantments.link_github": "GitHub",
+  "pack.silentpaltos_enchantments.link_modrinth": "Modrinth", 
+
+  "enchantment.silentpaltos_enchantments.exorcism": "Exorcism",
+  "enchantment.silentpaltos_enchantments.devouring": "Devouring",
+  "enchantment.silentpaltos_enchantments.hydrophobia": "Hydrophopia",
+  "enchantment.silentpaltos_enchantments.vitality": "Vitality",
+  "enchantment.silentpaltos_enchantments.fragility": "Fragility",
+  "enchantment.silentpaltos_enchantments.spatter": "Spatter",
+  "enchantment.silentpaltos_enchantments.air_step": "Air Step",
+  "enchantment.silentpaltos_enchantments.bluntness": "Bluntness",
+
+  "death.attack.water_block": "%s soaked to death",
+  "death.attack.water_block.item": "%1$s was wetted by %2$s",
+  "death.attack.water_block.player": "%1$s walked into a water while trying to escape %2$s",
+  "death.attack.water_rain": "%s soaked to death",
+  "death.attack.water_rain.player": "%1$s walked into the rain while trying to escape %2$s",
+
+  "emoji.silentpaltos_enchantments.enchanted_book": "1"
+}
