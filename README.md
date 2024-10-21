@@ -35,22 +35,29 @@ Enchantment for melee weapon. Items enchanted with Exorcism deal increased damag
 
 
 <details>
-<summary>Hydrophobia</summary>
-
-Enchantment for armor. If you wear armor enchanted with Hydrophobia, You better avoid the water because now it can damage you and even kill you.
-
-**Curse**
-
-</details>
-
-
-<details>
 <summary>Vitality</summary>
 
 Enchantment for armor. Armor enchanted with Vitality increases Max Health.
 
 **Max Level: II**\
 **Excluive set: Armor** - can't be combined with protection enchantments
+
+</details>
+
+
+<details>
+<summary>Spatter</summary>
+
+Enchantment for Bows and Crossbows. If you shoot a tipped arrow from an item enchanted with Spatter, arrow will turn into an area effect cloud if sticks into a block.
+
+</details>
+
+
+<details>
+<summary>Air Step</summary>
+
+Can be applied to boots\
+Allows you to do double jump and you also can do a super jump.
 
 </details>
 
@@ -66,14 +73,28 @@ Enchantment for all items with durability. Items enchanted with Fragility have s
 
 
 <details>
-<summary>Burst</summary>
+<summary>Bluntness</summary>
 
-Enchantment for Bows and Crossbows. If you shoot a tipped arrow from an item enchanted with Burst, arrow will turn into an area effect cloud if sticks into a block.
+Makes weapons and tools less efficient.
+
+**Curse**
+
+</details>
+
+
+<details>
+<summary>Hydrophobia</summary>
+
+Enchantment for armor. If you wear armor enchanted with Hydrophobia, You better avoid the water because now it can damage you and even kill you.
+
+**Curse**
 
 </details>
 
 
 </details>
+
+
 
 
 <details>
