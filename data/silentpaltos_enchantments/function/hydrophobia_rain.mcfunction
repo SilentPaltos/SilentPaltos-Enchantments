@@ -4,7 +4,7 @@
         positioned over motion_blocking \
         align xyz \
         if entity @s[ \
-            dx = 0,  dy = 320, dz = 0, \
+            dx = 0, dy = 320, dz = 0 \
         ] \
         positioned as @s \
     run \
