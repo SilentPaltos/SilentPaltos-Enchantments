@@ -1,0 +1,25 @@
+{
+    "pack.silentpaltos_enchantments.name": "SilentPaltos Enchantments",
+    "pack.silentpaltos_enchantments.description": "%s новыхъ зачарованій",
+    "pack.silentpaltos_enchantments.author": "Авторъ: %s",
+    "pack.silentpaltos_enchantments.version": "Версія: %s",
+    "pack.silentpaltos_enchantments.get_links": "Ссылки",
+    "pack.silentpaltos_enchantments.link_github": "GitHub",
+    "pack.silentpaltos_enchantments.link_modrinth": "Modrinth", 
+  
+    "enchantment.silentpaltos_enchantments.exorcism": "Изгнаніе духов",
+    "enchantment.silentpaltos_enchantments.devouring": "Пожираніе",
+    "enchantment.silentpaltos_enchantments.hydrophobia": "Водобоязнь",
+    "enchantment.silentpaltos_enchantments.vitality": "Живучесть",
+    "enchantment.silentpaltos_enchantments.fragility": "Хрупкость",
+    "enchantment.silentpaltos_enchantments.spatter": "Окропленіе",
+    "enchantment.silentpaltos_enchantments.air_step": "Воздушный шагъ",
+    "enchantment.silentpaltos_enchantments.bluntness": "Тупость",
+  
+    "death.attack.water_block": "%s измокъ до смерти",
+    "death.attack.water_block.player": "%s упалъ въ воду, убегая отъ %s",
+    "death.attack.water_rain": "%s измокъ до смерти",
+    "death.attack.water_rain.player": "%s попалъ подъ дождь, убегая отъ %s",
+
+    "emoji.silentpaltos_enchantments.enchanted_book": "1"
+}
