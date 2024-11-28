@@ -136,6 +136,6 @@ Download Pack and use it as **Resource-** and **Data-** pack.
 <details>
 <summary>Updating</summary>
 
-Mostly you just need to replace the old pack with the new one.
+Mostly you just need to replace an old pack with a new one.
 
 </details>
