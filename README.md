@@ -1,5 +1,5 @@
 # SilentPaltos Enchantments
-Datapack adds 6 unique enchantments.
+Adds new enchantments to the Minecraft.
 
 It's Alpha version. It's not balanced yet.\
 Mojang reworking Villager trades and it also affects how you get enchantments. So for now you can get it in all common ways:
